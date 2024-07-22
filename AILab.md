@@ -1,0 +1,11 @@
+# Aritificial Intelligence LAB toutorial
+- [Introduction](https://colab.research.google.com/drive/1nz_dIE2Vgaua3lEvxjgxa9i02gZq8Dvo?usp=sharing)
+- [Supervised Model](https://colab.research.google.com/drive/1Ze4mZuFP8ZNPrKrQYUZGFsPl33nIWT3o?usp=sharing)
+- [UnSupervised Model](https://colab.research.google.com/drive/1dAsB2QwmduKZz4r2BFsuMIssOJZSYmXa?usp=sharing)
+- [ReinforementModel](https://colab.research.google.com/drive/1u9s_JhxPtUYAj8kCLmhNVsFmVrYJ83Om?usp=sharing)
+- [What is GenAI](https://colab.research.google.com/drive/1bWdByb0cuxnezCFEXIWFq9XI8_toWpNi?usp=sharing)
+- [GenAI with VecetorDB](https://colab.research.google.com/drive/1UMoJzqZvaXBCPFqC7n7Khy-X6-uSZB3E?usp=sharing)
+- [SentimentAnalysis in NLP](https://colab.research.google.com/drive/1Kw4r76xPW2YfFH4zzzJiPlCfO_x44uHt?usp=sharing)
+- [Retrival Augmented Generation](https://colab.research.google.com/drive/1IC0Eo2qhfZXMxfHLQs3HcfOkukZddLwk?usp=sharing)
+- [Understanding VectorDB with NLP](https://colab.research.google.com/drive/1rUH9YblrSNKFFiPdLMp9Jp1Fq8Xl92WE?usp=sharing)
+- 
