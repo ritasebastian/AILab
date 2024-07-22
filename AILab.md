@@ -8,4 +8,20 @@
 - [SentimentAnalysis in NLP](https://colab.research.google.com/drive/1Kw4r76xPW2YfFH4zzzJiPlCfO_x44uHt?usp=sharing)
 - [Retrival Augmented Generation](https://colab.research.google.com/drive/1IC0Eo2qhfZXMxfHLQs3HcfOkukZddLwk?usp=sharing)
 - [Understanding VectorDB with NLP](https://colab.research.google.com/drive/1rUH9YblrSNKFFiPdLMp9Jp1Fq8Xl92WE?usp=sharing)
-- 
+
+
+#### How to Access and Run the Shared Google Colab Notebook
+
+1. **Open the Shared Link**:
+   - Click on the link you received to open the Google Colab notebook.
+
+2. **Save a Copy to Your Google Drive**:
+   - Once the notebook opens, click on "File" > "Save a copy in Drive...".
+   - This will create a copy of the notebook in your own Google Drive, which you can edit and run.
+
+3. **Run the Notebook**:
+   - To run the cells in the notebook, click on a cell and press `Shift + Enter` or click on the "Run" button (the play icon) next to the cell.
+   - If the notebook requires any additional libraries, you can install them using pip in a code cell. For example:
+     ```python
+     !pip install numpy
+     ```
