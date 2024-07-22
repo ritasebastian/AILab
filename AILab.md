@@ -8,7 +8,15 @@
 - [SentimentAnalysis in NLP](https://colab.research.google.com/drive/1Kw4r76xPW2YfFH4zzzJiPlCfO_x44uHt?usp=sharing)
 - [Retrival Augmented Generation](https://colab.research.google.com/drive/1IC0Eo2qhfZXMxfHLQs3HcfOkukZddLwk?usp=sharing)
 - [Understanding VectorDB with NLP](https://colab.research.google.com/drive/1rUH9YblrSNKFFiPdLMp9Jp1Fq8Xl92WE?usp=sharing)
-
+- [Building Customer Support System using Vectordb with NLP](https://colab.research.google.com/drive/1jR_FSnrD2CKWsb2jSl-5MEZs5J-mZODi?usp=sharing)
+- [Definition of Embedding with Example}](https://colab.research.google.com/drive/1yotBeCE5OFGDzmULJQ4YUoexUMgUnIMX?usp=sharing)
+- [How NLP works with example](https://colab.research.google.com/drive/1k3cWy0St1rxsy5OQWs_mF9XYN_x9KoGs?usp=sharing)
+- [NLP Example](https://colab.research.google.com/drive/16kj8eQUz8RtcJwdqZWGTAhW4l9PlNOCZ?usp=sharing)
+- [Definition of Vectordb with Example](https://colab.research.google.com/drive/135Axurh5y99gb0N9iKJWywBB6JTATZ03?usp=sharing)
+- [Deep Learning in GenAI with Example](https://colab.research.google.com/drive/1Nhpu-jyPb5EVvw_kxzT-txYxjHs1e1Df?usp=sharing)
+- [Natvie Vectordb vs traditona Vectordb](https://colab.research.google.com/drive/1VczehNciR44bWLXoCWZeJrSVrVnePaJe?usp=sharing)
+- [Named Entity Recogniton Model](https://colab.research.google.com/drive/1_j-GC9z08IU-HpQQeq7jwsNs5-k90BAp?usp=sharing)
+  
 
 #### How to Access and Run the Shared Google Colab Notebook
 
