@@ -21,7 +21,7 @@
 #### How to Access and Run the Shared Google Colab Notebook
 
 1. **Open the Shared Link**:
-   - Click on the link you received to open the Google Colab notebook.
+   - Click on the link above to open the Google Colab notebook.
 
 2. **Save a Copy to Your Google Drive**:
    - Once the notebook opens, click on "File" > "Save a copy in Drive...".
