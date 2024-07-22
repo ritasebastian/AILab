@@ -1,4 +1,4 @@
-#  Self Learning Aritificial Intelligence LAB toutorial
+#  Mastering AI: A Comprehensive Self-Learning Lab Tutorial"
 - [Introduction](https://colab.research.google.com/drive/1nz_dIE2Vgaua3lEvxjgxa9i02gZq8Dvo?usp=sharing)
 - [Supervised Model](https://colab.research.google.com/drive/1Ze4mZuFP8ZNPrKrQYUZGFsPl33nIWT3o?usp=sharing)
 - [UnSupervised Model](https://colab.research.google.com/drive/1dAsB2QwmduKZz4r2BFsuMIssOJZSYmXa?usp=sharing)
