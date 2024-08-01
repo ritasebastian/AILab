@@ -1,5 +1,3 @@
-
-```markdown
 # Quick Links
 
 - [Ollama](https://ollama.com)
@@ -62,4 +60,4 @@ To get started, you'll need:
 1. Close the browser window to exit Open WebUI.
 2. To stop using Open WebUI, open the Docker app, locate the container hosting Open WebUI, and click "Stop".
 3. If you want to access Open WebUI again, restart the Docker container by clicking the play button.
-```
+
