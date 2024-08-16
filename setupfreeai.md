@@ -1,0 +1,46 @@
+https://github.com/ChatTeach/FreeGPT-4?tab=readme-ov-file#api-g4f
+Here’s the content converted into a `.md` (Markdown) file format:
+
+```markdown
+# FreeGPT-WebUI-v2 Setup Guide
+
+## Prerequisites
+Before you start, make sure you have installed Docker on your machine.
+
+## Running the Docker
+
+### Dockerfile for Creating a Docker Image Yourself
+You can create an image using the following commands:
+
+```bash
+git clone https://github.com/VadimBoev/freegpt-webui-v2.git
+cd freegpt-webui-v2
+```
+
+### Build Image:
+
+```bash
+docker build -f Dockerfile -t freegpt-webui-v2 .
+```
+
+### Run the Application Using Docker:
+
+```bash
+docker run -p 1338:1338 freegpt-webui-v2:latest
+```
+
+### Access the Application
+You can access the application in your browser using the URL:
+
+- [http://127.0.0.1:1338](http://127.0.0.1:1338)
+- [http://localhost:1338](http://localhost:1338)
+
+### Stop the Docker Containers
+When you're done using the application, stop the Docker containers using the following command:
+
+```bash
+docker stop <container-id>
+```
+```
+
+You can save this content into a `.md` file, such as `README.md`, for easy sharing and documentation.
