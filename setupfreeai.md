@@ -12,6 +12,8 @@ You can create an image using the following commands:
 git clone https://github.com/VadimBoev/freegpt-webui-v2.git
 cd freegpt-webui-v2
 ```
+# Update the requirements.txt File:
+If the project has a requirements.txt file, make sure flask_babel is listed in it. This ensures that all necessary dependencies are installed when the container is built or run.
 
 ### Build Image:
 
@@ -36,6 +38,8 @@ When you're done using the application, stop the Docker containers using the fol
 
 ```bash
 docker stop <container-id>
+docker system prune -a
+
 ```
 
 https://github.com/ChatTeach/FreeGPT-4?tab=readme-ov-file#api-g4f
