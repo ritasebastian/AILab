@@ -1,7 +1,3 @@
-
-
-
-```markdown
 # FreeGPT-WebUI-v2 Setup Guide
 
 ## Prerequisites
@@ -41,5 +37,5 @@ When you're done using the application, stop the Docker containers using the fol
 ```bash
 docker stop <container-id>
 ```
-```
+
 https://github.com/ChatTeach/FreeGPT-4?tab=readme-ov-file#api-g4f
