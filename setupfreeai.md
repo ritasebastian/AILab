@@ -1,5 +1,5 @@
-https://github.com/ChatTeach/FreeGPT-4?tab=readme-ov-file#api-g4f
-Here’s the content converted into a `.md` (Markdown) file format:
+
+
 
 ```markdown
 # FreeGPT-WebUI-v2 Setup Guide
@@ -42,5 +42,4 @@ When you're done using the application, stop the Docker containers using the fol
 docker stop <container-id>
 ```
 ```
-
-You can save this content into a `.md` file, such as `README.md`, for easy sharing and documentation.
+https://github.com/ChatTeach/FreeGPT-4?tab=readme-ov-file#api-g4f
